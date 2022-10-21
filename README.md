@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jorge Herrera </h1>
-<h3 align="center">I'm a developer Front End. My first HTML and CSS lines were for SharePoint 2010.</h3>
+<h3 align="center">I'm a Front End Developer. My first HTML and CSS lines were for SharePoint 2010.</h3>
 
 ## 🦇 About Me
 
