@@ -9,15 +9,15 @@
 ## ⚙️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/45/000000/git.png"/>
-  <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
-  <img src="https://img.icons8.com/fluency/45/000000/typescript--v2.png"/>
-  <img src="https://img.icons8.com/color/45/000000/angularjs.png"/>
-    <img src="https://img.icons8.com/plasticine/45/000000/react.png"/>
-  <img src="https://img.icons8.com/color/45/000000/graphql.png"/>
-  <img src="https://img.icons8.com/color/45/000000/redux.png"/>
   <img src="https://img.icons8.com/color/45/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/45/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/45/000000/git.png"/>
+  <img src="https://img.icons8.com/color/45/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/plasticine/45/000000/react.png"/>
+  <img src="https://img.icons8.com/fluency/45/000000/typescript--v2.png"/>
+  <img src="https://img.icons8.com/color/45/000000/graphql.png"/>
+  <img src="https://img.icons8.com/color/45/000000/redux.png"/>
   <img src="https://img.icons8.com/color/45/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/45/000000/python.png"/>
   <img src="https://img.icons8.com/fluent/45/000000/mysql-logo.png"/>
