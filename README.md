@@ -43,7 +43,8 @@
 <br/>
 <br/>
 
-[![Jorge's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jorgeemherrera&theme=dracula)](https://github.com/jorgeemherrera/github-readme-activity-graph)
+[![Jorge Herrera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgeemherrera&theme=dracula)](https://github.com/jorgeemherrera/github-readme-activity-graph)
+
 
 <br/>
 <br/>
