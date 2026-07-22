@@ -20,8 +20,6 @@
   <img src="https://img.icons8.com/color/45/000000/redux.png"/>
   <img src="https://img.icons8.com/color/45/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/45/000000/python.png"/>
-  <img src="https://img.icons8.com/fluent/45/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/45/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/45/000000/git.png"/>
   <img src="https://img.icons8.com/color/45/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/45/000000/google-cloud-platform.png"/>
