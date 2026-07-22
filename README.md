@@ -12,7 +12,7 @@
   <img src="https://img.icons8.com/color/45/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/45/000000/css3.png"/>
   <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
-   <img src="https://img.icons8.com/color/45/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/45/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/45/000000/angularjs.png"/>
   <img src="https://img.icons8.com/plasticine/45/000000/react.png"/>
   <img src="https://img.icons8.com/fluency/45/000000/typescript--v2.png"/>
@@ -23,6 +23,11 @@
   <img src="https://img.icons8.com/fluent/45/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/45/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/45/000000/git.png"/>
+  <img src="https://img.icons8.com/color/45/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/45/000000/google-cloud-platform.png"/>
+  <img src="https://img.icons8.com/color/45/000000/shopify.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/claude" width="45" height="45"/>
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![NodeJs Badge](https://img.shields.io/badge/-NodeJS-026e00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=026e00)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
