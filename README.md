@@ -46,6 +46,13 @@
 
 [![Jorge Herrera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgeemherrera&theme=dracula)](https://github.com/jorgeemherrera/github-readme-activity-graph)
 
+<br/>
+
+## 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jorgeemherrera/jorgeemherrera/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jorgeemherrera/jorgeemherrera/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
+</p>
 
 <br/>
 <br/>
